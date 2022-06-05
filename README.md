@@ -1,4 +1,4 @@
-# repository-for-practicing-git
+# git-tutorial
 This is a repository for practicing Git.
 
 # Author
